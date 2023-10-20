@@ -24,16 +24,16 @@
 
 <p align="left">
   <a href="https://codepen.io/dawnscript" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/256/1626/1626319.png" style="border-radius:4px;" alt="dawnscript" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/256/1626/1626319.png" alt="dawnscript" height="30" width="30" />
   </a>
   <a href="https://dribbble.com/surevan08" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124037.png" style="border-radius:4px;" alt="surevan08" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124037.png" alt="surevan08" height="30" width="30" />
   </a>
   <a href="https://www.youtube.com/@dawnscript" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dawnscript" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1024px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="dawnscript" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/surevan08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surevan08" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="surevan08" height="30" width="30" />
   </a>
 </p>
 
