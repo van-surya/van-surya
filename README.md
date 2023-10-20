@@ -3,14 +3,7 @@
 </div>
 
 ###
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
+ 
 
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">I'm a frontend developer - You can view and download projects that I share here and collaborate on</h3>
