@@ -33,7 +33,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1024px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="dawnscript" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/surevan08" target="blank">
-    <img align="center" border-radius="4px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="surevan08" height="30" width="30" />
+    <img align="center" style="border-radius:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="surevan08" height="30" width="30" />
   </a>
 </p>
 
@@ -44,8 +44,7 @@
 ###
 <p align="left"> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
-    border-radius="4px" alt="sass" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  alt="sass" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
