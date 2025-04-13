@@ -77,27 +77,15 @@
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="assets/laravel.png" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="assets/vue.png" alt="vuejs" width="40" height="40"/>
-  </a>
+  </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="assets/react.png" alt="react" width="40" height="40"/>
   </a>
-  <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>  -->
+  </a> 
 </p>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=surevan08&theme=iceberg&exclude_days=Mon" alt="GitHub Streak"  />
-</div>
-
-###
+### 
+  
  
