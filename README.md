@@ -1,4 +1,4 @@
-<a href ="http://mr-surya.site/" align="center">
+<a href ="http://mr-surya.site/" align="center" style="margin-left:auto;margin-right:auto;">
   <img height="150" src="assets/profile.png"  />
 </a>
 
