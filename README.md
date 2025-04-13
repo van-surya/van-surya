@@ -5,7 +5,7 @@
 ###
  
 
-<h1 align="center">Hi 👋, I'm Surya</h1>
+<h1 align="center">Hi 👋, I'm <a href="http://mr-surya.site/">Surya</a></h1>
 <h3 align="center">I'm a frontend developer - You can view and download projects that I share here and collaborate on</h3>
 
 ### 
@@ -18,14 +18,11 @@
 <p align="left">
   <a href="https://codepen.io/dawnscript" target="blank">
     <img align="center" src="assets/codepen.png" alt="dawnscript" height="30" width="30" />
-  </a>
-  <a href="https://dribbble.com/surevan08" target="blank">
-    <img align="center" src="assets/dribble.png" alt="surevan08" height="30" width="30" />
-  </a>
+  </a> 
   <a href="https://www.youtube.com/@dawnscript" target="blank">
     <img align="center" src="assets/youtube.png" alt="dawnscript" height="30" width="30" />
   </a>
-  <a href="https://www.hackerrank.com/surevan08" target="blank">
+  <a href="https://www.hackerrank.com/profile/van_surya" target="blank">
     <img align="center" src="assets/hackerrank.png" alt="surevan08" height="30" width="30" />
   </a>
 </p>
