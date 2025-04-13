@@ -1,6 +1,6 @@
-<div align="center">
+<a href ="http://mr-surya.site/" align="center">
   <img height="150" src="assets/profile.png"  />
-</div>
+</a>
 
 ###
  
